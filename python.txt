@@ -1,0 +1,39 @@
+dictionaries
+numpy 
+pandas
+sk learn
+matlplot
+image processing concepts
+open cv
+deep learning concepts
+machine learning
+flask
+==========
+manual testing
+
+>news
+post
+profile
+comments 
+
+enter your name and details page
+UI issues--2
+bugs--8
+
+profile page
+UI issues--8
+bugs--5
+
+Bio data page
+UI issues--1
+Bugs--2
+
+Create Post 
+UI issues--3
+Bugs--1
+
+ui--2,7,1,3=14
+bug-8,6,2,1=16
+
+
+
